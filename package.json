@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MarcusL-O/NodeMongo/issues"
   },
-  "homepage": "https://github.com/MarcusL-O/NodeMongo#readme"
+  "homepage": "https://github.com/MarcusL-O/NodeMongo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
