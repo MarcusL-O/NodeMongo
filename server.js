@@ -15,7 +15,7 @@ app.post("/blogpost", (reg, res) => {
 
 
 mongoose.
-connect("mongodb+srv://Marcuslo00:SKibk0033@marcusapi.4eeoo.mongodb.net/Products-API?retryWrites=true&w=majority&appName=MarcusAPI")
+connect("mongodb+srv://Marcuslo00:admin123456@marcusapi.4eeoo.mongodb.net/Products-API?retryWrites=true&w=majority&appName=MarcusAPI")
 .then(() =>{
     console.log("Connected to mongo");
     
