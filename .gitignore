@@ -1,4 +1,6 @@
 node_modules
+.env
+
 
 # Node-moduler
 node_modules/
@@ -25,3 +27,4 @@ build/
 # Temp-filer
 tmp/
 temp/
+
